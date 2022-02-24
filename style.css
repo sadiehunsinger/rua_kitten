@@ -37,12 +37,12 @@ body {
 }
 .ruakittenimg2 {
   background-image: url(./images/rua7.jpeg);
-  min-height:500px;
+  min-height: 75vh;
 
 }
 .ruakittenimg3 {
   background-image: url(./images/rua3.jpeg);
-  min-height:500px;
+  min-height:75vh;
 }
 
 .ruakittenimg4 {
@@ -52,10 +52,13 @@ body {
 
 .section {
   text-align: center;
-  padding: 30px 100px;
+  padding: 40px 100px;
   background-color: #d5f7cd;
 }
 
+.p {
+  
+}
 .ruakittentext {
   position: absolute;
   top: 50%;
